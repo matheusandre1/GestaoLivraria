@@ -1,4 +1,4 @@
-namespace Sistema_Livraria
+namespace Library
 {
     public class WeatherForecast
     {
